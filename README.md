@@ -2,6 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<<<<<<< HEAD
 ## Available Scripts
 
 In the project directory, you can run:
@@ -86,3 +87,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> parent of 4e8413c (Update README.md)
+=======
+>>>>>>> 3a1b1eaafcd68abaf4d1a8c181f0a274fa1f1a75
