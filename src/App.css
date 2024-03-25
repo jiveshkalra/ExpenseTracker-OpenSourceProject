@@ -37,8 +37,12 @@ form input {
   padding: 2px 5px;
   border-radius: 5px;
 }
+
+form input[type='datetime-local'] {
+  padding: 2px;
+}
+
 form div.basic {
-  display: flex;
   gap: 5px;
   margin-bottom: 5px;
 }
@@ -68,6 +72,9 @@ div.transaction div.name {
 div.transaction div.description {
   font-size: 0.7rem;
   color: #888888;
+}
+div.category{
+  
 }
 div.right {
   text-align: right;
